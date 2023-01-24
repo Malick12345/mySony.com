@@ -1,0 +1,174 @@
+style
+
+.on {
+    color:red;
+    font-size:26px;
+    padding-top:6%;
+    background-color:black;
+}
+.top-container {
+    color:white;
+    background-color:black;
+    font-size:20px;
+}
+
+body {
+    text-align:center;
+    font-family:arial;
+    
+
+}
+
+.describe {
+    font-family:Lucida;
+    
+}
+
+.discover {
+    font-size:22px;
+    margin:6px;
+    padding:4px;
+    background-color:black;
+    color:white;
+}
+
+.behinds {
+    font-size:22px;
+    background-color:whitesmoke;
+    color:black;
+    padding-top:2%;
+    
+}
+
+.middle-box {
+    background-color:rgb(12, 11, 11);
+
+}
+
+.write {
+    color:white;
+    font-size:16px;
+    font-family:arial;
+
+
+}
+
+.bottom-box {
+    background-color:whitesmoke;
+    opacity:1;
+
+    
+}
+.sec {
+    color:black;
+    font-size:18px;
+
+}
+
+button {
+    color:white;
+    background-color:red;
+    width:133px;
+    height:33px;
+    border-radius:100px;
+    cursor:pointer;
+    opacity:1;
+
+
+}
+
+hr {
+    border-style:dotted 6px;
+    padding:4px;
+    width:4%;
+    border-bottom:none;
+}
+.end {
+    text-align:center;
+    font-size:14px;
+    background-color:black;
+    padding-bottom:4%;
+    color:white;
+}
+
+h3 {
+    font-size:22px;
+    font-family:arial;
+    padding:4px;
+}
+.upper {
+    background-color:black;
+    color:white;
+}
+
+.rev {
+    background-color:black;
+    padding-top:4%;
+    color:white;
+    font-size:24px;
+
+}
+h3 {
+    font-size:24px;
+    font-family:arial;
+}
+
+.bottom-box {
+    background-color:whitesmoke;
+}
+
+.sec {
+    font-family:sans serif;
+    font-size:22px;
+    color:grey;
+}
+
+.tweet {
+    margin:30px;
+}
+
+.insta {
+    margin:30px;
+}
+
+.face {
+    margin:30px;
+}
+.try {
+    font-size:28px;
+    background-color:black;
+    color:white;
+}
+
+.navbar {
+    text-decoration:none;
+    
+    
+
+}
+
+.btn {
+    color:whitesmoke;
+    position:relative;
+    margin-left:15px;
+}
+
+.para:hover {
+    color:green;
+    cursor:pointer;
+
+}
+
+.design {
+    float:right;
+}
+.para {
+    margin:15px;
+    padding:18px;
+}
+.symbol {
+    float:right;
+}
+.logo {
+    float:right;
+}
